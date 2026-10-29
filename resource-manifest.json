@@ -1,0 +1,444 @@
+{
+  "source": "https://hec.aulacn.com/",
+  "resources": [
+    {
+      "url": "https://hec.aulacn.com/96497d6bd8989bff.wasm",
+      "file": "96497d6bd8989bff.wasm",
+      "bytes": 80442,
+      "sha256": "8816f7c9a112265943f0137d1d54b4c9fc13d87850803918d5e53a9569aacba6"
+    },
+    {
+      "url": "https://cp.driveall.cn/api/supplier/index",
+      "file": "api/supplier/index",
+      "bytes": 156,
+      "sha256": "13fe3364593503a002725c2593e974c3dcad0785610d8c1eca26fc74835ae9fd"
+    },
+    {
+      "url": "https://config.driveall.cn/axial.json",
+      "file": "external/config.driveall.cn/axial.json",
+      "bytes": 10049,
+      "sha256": "969f1b3e5cef18f0b9287c05e40af2b00b560bac33ef385dbde4b95c70bee8b1"
+    },
+    {
+      "url": "https://config.driveall.cn/logo/aula/favicon.ico",
+      "file": "external/config.driveall.cn/logo/aula/favicon.ico",
+      "bytes": 67646,
+      "sha256": "fe285bbfa889ad4f103af6060df67cdcba8ca1f2d7e8f245d9325dc15a6f950c"
+    },
+    {
+      "url": "https://static.driveall.cn/static/keyboards/kb_bg.png",
+      "file": "external/static.driveall.cn/static/keyboards/kb_bg.png",
+      "bytes": 396476,
+      "sha256": "5a3634f1fb23608e17d3de2d9ce7965f94a3647b4eb5f9a8910e14237168b0fd"
+    },
+    {
+      "url": "https://hec.aulacn.com/",
+      "file": "index.html",
+      "bytes": 1101,
+      "sha256": "5dd98e35eb3169c8413842d117f7b338750233938516e159a760fe653f128220"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/css/app.8cbd1137.css",
+      "file": "static/css/app.8cbd1137.css",
+      "bytes": 153580,
+      "sha256": "ae06852446f7baa609f361f188bf9638ab34f070933f3cb7342c955e559f59d5"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/css/chunk-elementUI.f09e744d.css",
+      "file": "static/css/chunk-elementUI.f09e744d.css",
+      "bytes": 210966,
+      "sha256": "0c37769530d60b49157133a8da099e87edf00de4d62d1b747059925437d4bd53"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/css/chunk-vendors.b98059fb.css",
+      "file": "static/css/chunk-vendors.b98059fb.css",
+      "bytes": 43835,
+      "sha256": "a528fdb391ad007e27ab6560b41842efedbba5d1e5085e14a031442708d597bd"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/fonts/element-icons.f1a45d74.ttf",
+      "file": "static/fonts/element-icons.f1a45d74.ttf",
+      "bytes": 55956,
+      "sha256": "a30f5b3ba6a48822eae041e0ca5412a289125e4ba661d047dae565ac43b4a6b2"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/fonts/element-icons.ff18efd1.woff",
+      "file": "static/fonts/element-icons.ff18efd1.woff",
+      "bytes": 28200,
+      "sha256": "ab40a58972be2ceab32e7e35dab3131b959aae63835d7bda1a79ae51f9a73c17"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/fonts/iconfont.20d86295.ttf",
+      "file": "static/fonts/iconfont.20d86295.ttf",
+      "bytes": 12040,
+      "sha256": "98845a9adbd83e710ce5faf8352e752083aff601cc475335b06441e2eeffe66a"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/ar.b5830a00.svg",
+      "file": "static/img/ar.b5830a00.svg",
+      "bytes": 1063,
+      "sha256": "1bd1c8b0696622ec85ecc67b28bf766c2162f1f528eb6561f8408da795a31ec2"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/de.aa556c13.svg",
+      "file": "static/img/de.aa556c13.svg",
+      "bytes": 181,
+      "sha256": "ba6e2a243cb579dea5a8d9b5a87970782f708cfe7b90e82ebd9292f89daa37ab"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/en.38a1cd9c.svg",
+      "file": "static/img/en.38a1cd9c.svg",
+      "bytes": 820,
+      "sha256": "c1e9f6641224d686aa854ec1b89912cb372095f11257d14314596fea358c8664"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/es-ES.fb40c038.svg",
+      "file": "static/img/es-ES.fb40c038.svg",
+      "bytes": 599,
+      "sha256": "4d6752fdfbd1605c29b7bd47af4011615f868bb903068c971ca82d0cf5eef581"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/fr.0e877b43.svg",
+      "file": "static/img/fr.0e877b43.svg",
+      "bytes": 195,
+      "sha256": "06c38629007db9db2ca9fd821f3d8c5d56f30c9f86588e034bd070d1ea439113"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/hu.31f5ca86.svg",
+      "file": "static/img/hu.31f5ca86.svg",
+      "bytes": 193,
+      "sha256": "01e5b9cb192e8d378a4ef76bc35f8a9a26338810e97111f1c4c2e17a83b43d35"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/id.811bc649.svg",
+      "file": "static/img/id.811bc649.svg",
+      "bytes": 146,
+      "sha256": "10044594cd13d728c11024b92dd14395826aa04cee5e952ffad1a3ed6b8ee6c3"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/it.5a366ed0.svg",
+      "file": "static/img/it.5a366ed0.svg",
+      "bytes": 201,
+      "sha256": "e81d94d0106f2dfe6619c669c85568191732d588f6b02a5044b77c767821ea31"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/ja.17b08d2e.svg",
+      "file": "static/img/ja.17b08d2e.svg",
+      "bytes": 158,
+      "sha256": "ce3d1e4c28f4fcfc35378428ef3ce11c2ae88bb046520262ff1748b470c0da16"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/key_switch.b30a98a6.png",
+      "file": "static/img/key_switch.b30a98a6.png",
+      "bytes": 144843,
+      "sha256": "e8fcdf406133801fae607571ace6b5e9477f97da4edc7e6ba6420f900b75f3dc"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/ko.802cb7fb.svg",
+      "file": "static/img/ko.802cb7fb.svg",
+      "bytes": 878,
+      "sha256": "510e02763ec627824da84ca0dd1311d8bbd8f5f2a912f754726e6f635a5cc9f8"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_10.2c3a58e8.png",
+      "file": "static/img/light_icon_10.2c3a58e8.png",
+      "bytes": 8750,
+      "sha256": "38edb063788e6987e56bb8fd13b712ea95f0fd92676e82765d94863eea6529d1"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_10@.7dc4b494.png",
+      "file": "static/img/light_icon_10@.7dc4b494.png",
+      "bytes": 8755,
+      "sha256": "ca2912af8041bec4ff3d6245b19b073501101687e31b92745d09dedecfee6cc5"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_11.c9d1ca4a.png",
+      "file": "static/img/light_icon_11.c9d1ca4a.png",
+      "bytes": 8932,
+      "sha256": "23f2382441cb358c230f70bcd69fe6f72a7cee18c4856ad963f9cf9d711ddc39"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_11@.248b02cf.png",
+      "file": "static/img/light_icon_11@.248b02cf.png",
+      "bytes": 8900,
+      "sha256": "58c3cda0e4f78ce94261ec24c64432fcab0361e78435e3a5b6c5623dcfe65849"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_12.c8a6ca7f.png",
+      "file": "static/img/light_icon_12.c8a6ca7f.png",
+      "bytes": 8791,
+      "sha256": "b5a4ef3b4faccf7218f6cbda3d671a117e7e4217fe68794b29fd76c7e26825bc"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_128.4d9c1796.png",
+      "file": "static/img/light_icon_128.4d9c1796.png",
+      "bytes": 9608,
+      "sha256": "d8978cc2230e76f8f1e5dfe7b404b88911ecec250dd294c6a5007b53ee892faa"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_128@.b0310008.png",
+      "file": "static/img/light_icon_128@.b0310008.png",
+      "bytes": 9600,
+      "sha256": "e08319e47664218caa64b0f42dabe7ec8317c0903531630d35442956a09bf4c6"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_12@.4aba735b.png",
+      "file": "static/img/light_icon_12@.4aba735b.png",
+      "bytes": 8776,
+      "sha256": "bcb0454bb864228c6237f3931ec734a1eb6b37f06d915a87300114e2b3858376"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_13.a99a4905.png",
+      "file": "static/img/light_icon_13.a99a4905.png",
+      "bytes": 8825,
+      "sha256": "ee85fad20c113a2d1adab688df6ee326aae43d2ec240837cd80d604843c20130"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_13@.5282b503.png",
+      "file": "static/img/light_icon_13@.5282b503.png",
+      "bytes": 8825,
+      "sha256": "0bca1d26870e01e8bec766f5adceb612bd8e8dc089c0167e25b361b08a6ed73f"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_14.3bce0dc1.png",
+      "file": "static/img/light_icon_14.3bce0dc1.png",
+      "bytes": 9006,
+      "sha256": "62e679583404b07285834917858e55e6c94c817f48262a99181dd9e8d2e16513"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_14@.b62b53cf.png",
+      "file": "static/img/light_icon_14@.b62b53cf.png",
+      "bytes": 9009,
+      "sha256": "b6c00135b32d30c89663c4500ba65d711055b9294af60042b1da89a767bd6ec4"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_15.bdd2aed7.png",
+      "file": "static/img/light_icon_15.bdd2aed7.png",
+      "bytes": 8907,
+      "sha256": "f96e58c830ad7a105c8e5edb043e2bf8fa980523904d1467ef509fa75ae02662"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_15@.1c74fea5.png",
+      "file": "static/img/light_icon_15@.1c74fea5.png",
+      "bytes": 8909,
+      "sha256": "abb5f366a9c3d3cdc37ae641224b376e9ab7c4614af115a02932ff442182c32c"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_16.283e0760.png",
+      "file": "static/img/light_icon_16.283e0760.png",
+      "bytes": 9140,
+      "sha256": "f88ea88fc9c4f7237e6cd266eb38255e420bc1887e1ed15dccacff24b08e5df0"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_16@.297b63f3.png",
+      "file": "static/img/light_icon_16@.297b63f3.png",
+      "bytes": 9140,
+      "sha256": "ae90a7c2999a83b29874904c6a2134d3447c809fbda9f5367332e4e539e934dd"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_17.556774b8.png",
+      "file": "static/img/light_icon_17.556774b8.png",
+      "bytes": 9172,
+      "sha256": "79eea1c91f21f484de8bd4c6636c4d81fe02ce035898d8c6a0f337515eb5cef9"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_17@.920ce40c.png",
+      "file": "static/img/light_icon_17@.920ce40c.png",
+      "bytes": 9168,
+      "sha256": "bc0de4c0fbfda0c7258324b821edaa380c87bb713c46981af7022ae8033ea075"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_18.7255f8e9.png",
+      "file": "static/img/light_icon_18.7255f8e9.png",
+      "bytes": 9273,
+      "sha256": "d99205b444c433e3aeec93b05d4ad7a7a7a73f24f8130022f839b55a654902f3"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_18@.4e94f688.png",
+      "file": "static/img/light_icon_18@.4e94f688.png",
+      "bytes": 9269,
+      "sha256": "ee1aed1b1ba0fd999604cc5d4983a0ef1db2a5683b50359459c8ea841d3f176f"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_19.e6ce19ce.png",
+      "file": "static/img/light_icon_19.e6ce19ce.png",
+      "bytes": 9192,
+      "sha256": "4eeca9dedd434e0cdbdd54a8a94d83cdc39ce275501d9a43d13886e1d0e7d09f"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_19@.f6a460ed.png",
+      "file": "static/img/light_icon_19@.f6a460ed.png",
+      "bytes": 9197,
+      "sha256": "8a492654737e2e9d61db6c22cb5db95a732a791c859523fa28e73fc05cc11e92"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_2.e53bc475.png",
+      "file": "static/img/light_icon_2.e53bc475.png",
+      "bytes": 8296,
+      "sha256": "97ec5ae6a9bc8c9890ae45c53ec42b32e4805dde906a497d607de4c8cf40c185"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_2@.029286bf.png",
+      "file": "static/img/light_icon_2@.029286bf.png",
+      "bytes": 8297,
+      "sha256": "a45395715cd18d3d457ce2020e8b0911909601caf93aa6f0de00e8b3da604c78"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_3.b36b7fea.png",
+      "file": "static/img/light_icon_3.b36b7fea.png",
+      "bytes": 8356,
+      "sha256": "8e968a33a1a56caed8331b2cc0e865336fa0faa597b36b87fd5384f6177f72fc"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_3@.427b2a08.png",
+      "file": "static/img/light_icon_3@.427b2a08.png",
+      "bytes": 8360,
+      "sha256": "c1f144141811238c16b956597c152017bb7ee3bd11086a151ad16f5f89cea40f"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_4.0d71a69f.png",
+      "file": "static/img/light_icon_4.0d71a69f.png",
+      "bytes": 8500,
+      "sha256": "aac9878379f5abbbc9cfabc490533102bde8e8e54ab55d7c00fd85a25bacc19f"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_4@.86a52777.png",
+      "file": "static/img/light_icon_4@.86a52777.png",
+      "bytes": 8496,
+      "sha256": "017250258d2d9c6aeb4abb042d54173c6d941b58ce7ab0dce89ab98ed3243534"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_5.23833e73.png",
+      "file": "static/img/light_icon_5.23833e73.png",
+      "bytes": 8578,
+      "sha256": "e237a0800f6fbaa2c99f84aacfc4f686fc99612aeb8787cbb381b367ea995267"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_5@.cb435089.png",
+      "file": "static/img/light_icon_5@.cb435089.png",
+      "bytes": 8559,
+      "sha256": "71c9ffeff8eb868cc02febb67b6dca0d97ba55bd22df83bebf10623d404de3d8"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_6.b402fe16.png",
+      "file": "static/img/light_icon_6.b402fe16.png",
+      "bytes": 8496,
+      "sha256": "7b16ab3d7d079bf6e0bbc6da2aab854a866a9f49873753668a77636953fdeb4a"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_6@.cf287d82.png",
+      "file": "static/img/light_icon_6@.cf287d82.png",
+      "bytes": 8490,
+      "sha256": "27585446976d18526c64fa283c0956dfd5ac798a30c89c7d70ff9e83eddaf072"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_7.7c8acd97.png",
+      "file": "static/img/light_icon_7.7c8acd97.png",
+      "bytes": 8446,
+      "sha256": "ddaa7ea0027f8bfd587d62ac626d8bfd15c9418c1d8ac7129de67a2b3919e668"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_7@.72859d83.png",
+      "file": "static/img/light_icon_7@.72859d83.png",
+      "bytes": 8447,
+      "sha256": "ead64eca3928c596d2151ce2a8560ab0480c40b6d240d5fab7da45f46963d012"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_8.c2cebe81.png",
+      "file": "static/img/light_icon_8.c2cebe81.png",
+      "bytes": 8510,
+      "sha256": "89cbc86150152c4b5395bd34479fb1997032492da6d7b907797395f622bf13be"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_8@.c463cae9.png",
+      "file": "static/img/light_icon_8@.c463cae9.png",
+      "bytes": 8513,
+      "sha256": "d357604c978ebc5be1fb7346a14d6c448aa450d7cc9b90b0fae87e7f96dc669c"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_9.dc0202a4.png",
+      "file": "static/img/light_icon_9.dc0202a4.png",
+      "bytes": 8513,
+      "sha256": "5583efc2b1e797d3f9d4537b9c5e53fff644f877aee8f60a1d6c069ce5903f6e"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/light_icon_9@.7389cedb.png",
+      "file": "static/img/light_icon_9@.7389cedb.png",
+      "bytes": 8506,
+      "sha256": "dd7cfad1113a75ff662c1b93e61b08444e16bc3b92dc3b5fde6168545cb5c9da"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/pl.1ca700fe.svg",
+      "file": "static/img/pl.1ca700fe.svg",
+      "bytes": 212,
+      "sha256": "3811a64fcafac33bb08df11c78aea97cb8ac0b28d856ae7d8de4371e3ff023ee"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/pt-BR.46418120.svg",
+      "file": "static/img/pt-BR.46418120.svg",
+      "bytes": 513,
+      "sha256": "0275675207e1cbe0942575bb368bd504397c4a9647c49fb83a3ebd1db0d8aac3"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/ru.8751026a.svg",
+      "file": "static/img/ru.8751026a.svg",
+      "bytes": 278,
+      "sha256": "4033e098e97df640d0a2b6a02d632ac8d084734f67ceed782e434a5273f989ab"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/th.1703bc76.svg",
+      "file": "static/img/th.1703bc76.svg",
+      "bytes": 257,
+      "sha256": "792bb0bed1cdda1d554b218c061daac91c9af1b03a89340a9be988053b66f7c4"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/zh-CN.f8a94f6c.svg",
+      "file": "static/img/zh-CN.f8a94f6c.svg",
+      "bytes": 602,
+      "sha256": "c593f52da3c5354cdc2012b87a240ae8e350fb6b18ec97a88ff999d7297796d5"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/img/zh-TW.df73aecc.svg",
+      "file": "static/img/zh-TW.df73aecc.svg",
+      "bytes": 697,
+      "sha256": "5be7a5abc6f6172da4af3585ad345549073e015ab6f1940b0b242d65fb975e25"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/js/348.e0ae770b.js",
+      "file": "static/js/348.e0ae770b.js",
+      "bytes": 3078,
+      "sha256": "3bb24d1f8610fd0611323dab771461b0fdaca3805132db956baaaea8f0118278"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/js/app.c35ca532.js",
+      "file": "static/js/app.c35ca532.js",
+      "bytes": 3561780,
+      "sha256": "6374877c26b3b29fe35caf5bf128043d0b9b25682f9ee068ebfbef8d3e180d8d"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/js/chunk-elementUI.6b75c153.js",
+      "file": "static/js/chunk-elementUI.6b75c153.js",
+      "bytes": 769110,
+      "sha256": "68f8c58a53eaf48d4b5408f1ee92005c5ffe40aa52f826706a3f76e42368fc69"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/js/chunk-keyboard.970a9da9.js",
+      "file": "static/js/chunk-keyboard.970a9da9.js",
+      "bytes": 1651848,
+      "sha256": "af58fcd0e6686d10f1d877bd32067ecba23aef1bb929555171ef8e841beaa78f"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/js/chunk-pintura.99157d40.js",
+      "file": "static/js/chunk-pintura.99157d40.js",
+      "bytes": 326839,
+      "sha256": "3c3fa28154672e676e51e7d0aa79f354ab2a4a5d893516fb53615c8981f7d1fa"
+    },
+    {
+      "url": "https://hec.aulacn.com/static/js/chunk-vendors.6493ceaa.js",
+      "file": "static/js/chunk-vendors.6493ceaa.js",
+      "bytes": 1655410,
+      "sha256": "eaf22330384f134dbfbb59ea93eab9eb84844e1892db32949a3cc847b6ef12cf"
+    }
+  ],
+  "failures": []
+}

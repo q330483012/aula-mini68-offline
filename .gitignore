@@ -1,0 +1,17 @@
+cache/
+dist/
+vendor/
+web/
+test-results/
+bin/
+__pycache__/
+web-lite/
+target/
+lite/gen/
+node_modules/
+.venv/
+.env
+.env.*
+*.log
+*.pem
+*.key

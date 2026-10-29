@@ -1,0 +1,9 @@
+{
+  "name": "aula-mini68-offline",
+  "productName": "AULA MINI68 Offline",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "main": "main.cjs",
+  "description": "Local MINI68 configuration and background music lighting"
+}

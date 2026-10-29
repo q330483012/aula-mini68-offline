@@ -1,0 +1,39 @@
+#mini68-local-open, #mini68-local-panel {
+  --local-accent: #1675d1; --local-border: #d8e1ea; --local-muted: #526174;
+  font: 16px/1.6 "Microsoft YaHei", "Segoe UI", sans-serif; color: #182536;
+}
+#mini68-local-open { position: fixed; top: 16px; right: 16px; z-index: 2000;
+  background: white; border: 1px solid var(--local-border); border-radius: 6px; padding: 8px 16px; cursor: pointer; }
+#mini68-local-panel { width: min(800px, calc(100vw - 48px)); max-height: calc(100vh - 48px);
+  box-sizing: border-box; overflow: auto; padding: 24px; border: 1px solid var(--local-border); border-radius: 10px; background: white; }
+#mini68-local-panel::backdrop { background: rgb(20 35 55 / 35%); }
+#mini68-local-panel * { box-sizing: border-box; }
+#mini68-local-panel header, #mini68-local-panel footer { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+#mini68-local-panel h2 { margin: 0; font-size: 22px; font-weight: 600; }
+#mini68-local-panel h3 { font-size: 16px; margin: 0 0 12px; }
+#mini68-local-panel p { margin: 8px 0; }
+#mini68-local-panel .local-muted { color: var(--local-muted); font-size: 14px; }
+#mini68-local-panel section { border-top: 1px solid var(--local-border); padding: 20px 0 0; margin-top: 20px; }
+#mini68-local-panel button, #mini68-local-panel select { font: inherit; background: white; color: inherit;
+  border: 1px solid var(--local-border); border-radius: 4px; min-height: 36px; padding: 4px 12px; }
+#mini68-local-panel button { cursor: pointer; }
+#mini68-local-panel button:disabled { cursor: wait; opacity: .6; }
+#mini68-local-panel button.local-primary { color: white; background: var(--local-accent); border-color: var(--local-accent); }
+#mini68-local-panel :focus-visible, #mini68-local-open:focus-visible { outline: 2px solid var(--local-accent); outline-offset: 3px; }
+#mini68-local-panel input[type=checkbox] { accent-color: var(--local-accent); width: 16px; height: 16px; vertical-align: middle; margin-right: 8px; }
+#mini68-local-panel .local-toggle { display: flex; align-items: center; font-weight: 600; }
+#mini68-local-panel .local-editor { display: flex; align-items: end; flex-wrap: wrap; gap: 12px; margin: 16px 0; padding: 16px; background: #f3f7fb; border-radius: 6px; }
+#mini68-local-panel fieldset { border: 0; margin: 0; padding: 0; }
+#mini68-local-panel legend { margin-bottom: 8px; font-weight: 600; }
+#mini68-local-panel .local-modifiers { display: flex; gap: 12px; margin-bottom: 12px; flex-wrap: wrap; }
+#mini68-local-panel .local-key-label { display: flex; align-items: center; gap: 8px; }
+#mini68-local-panel .local-table { width: 100%; border-collapse: collapse; margin-top: 12px; }
+#mini68-local-panel th, #mini68-local-panel td { text-align: left; border-bottom: 1px solid var(--local-border); padding: 8px 4px; }
+#mini68-local-panel th { color: var(--local-muted); font-weight: 500; }
+#mini68-local-panel td:last-child { text-align: right; }
+#mini68-local-panel .local-error { color: #ad2333; }
+#mini68-local-panel #local-message { min-height: 24px; margin: 12px 0; }
+#mini68-local-panel details { margin: 16px 0; }
+#mini68-local-panel summary { cursor: pointer; color: var(--local-accent); }
+#mini68-local-panel textarea { display: block; width: 100%; min-height: 92px; font: inherit; border: 1px solid var(--local-border); border-radius: 4px; padding: 8px; margin-top: 8px; resize: vertical; }
+@media (max-width: 600px) { #mini68-local-panel { padding: 16px; } #mini68-local-panel .local-editor { display: block; } #mini68-local-panel .local-key-label { margin-bottom: 12px; } }

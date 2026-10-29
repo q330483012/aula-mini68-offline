@@ -1,0 +1,6 @@
+{
+  "identifier": "local-main",
+  "description": "Local MINI68 page receives native HID and audio clock events",
+  "windows": ["main"],
+  "permissions": ["core:event:default"]
+}

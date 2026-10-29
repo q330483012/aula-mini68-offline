@@ -1,0 +1,32 @@
+.device-right.mini68-music-settings > .device-right-funciton { flex: none; height: auto; }
+.mini68-music-panel { flex: 1; min-height: 0; overflow-y: auto; }
+.mini68-music-panel > .music { width: min(100%, 5.875rem); margin: 0 auto; }
+.music.mini68-auto-music { flex-direction: column; align-items: center; }
+.mini68-music-auto {
+  box-sizing: border-box;
+  width: 80%;
+  margin: 16px 0 0;
+  padding: 12px 16px;
+  color: #334e68;
+  background: #edf5ff;
+  border: 1px solid #c7dcf4;
+  border-radius: 6px;
+  font: 16px/1.6 "Microsoft YaHei", sans-serif;
+}
+.mini68-music-header { display: flex; justify-content: space-between; align-items: center; gap: 16px; font-weight: 600; }
+.mini68-music-auto p { margin: 8px 0 0; }
+.mini68-music-auto .mini68-music-help {
+  color: #526174;
+  font-size: 14px;
+}
+.mini68-music-switch { display: inline-flex; align-items: center; gap: 10px; flex-shrink: 0; padding: 6px;
+  border: 0; background: transparent; color: inherit; font: inherit; cursor: pointer; }
+.mini68-switch-track { display: inline-block; width: 44px; height: 24px; position: relative; border-radius: 20px; background: #63758a; }
+.mini68-switch-track::after { content: ""; position: absolute; top: 3px; left: 3px; width: 18px; height: 18px; border-radius: 50%; background: white; }
+.mini68-music-switch[aria-checked=true] .mini68-switch-track { background: #1675d1; }
+.mini68-music-switch[aria-checked=true] .mini68-switch-track::after { left: 23px; }
+.mini68-music-switch:focus-visible { outline: 2px solid #1675d1; outline-offset: 3px; border-radius: 4px; }
+.mini68-auto-music .music-list { margin-top: 12px; width: 80%; box-sizing: border-box; padding: 20px; gap: 24px; }
+.mini68-auto-music .music-list > .f1 { min-width: 0; }
+.mini68-auto-music .music-list-item { width: 100%; margin: 12px 0; }
+.mini68-auto-music .music-list-item-title, .mini68-auto-music .music-list-item-text { font-size: 16px; }

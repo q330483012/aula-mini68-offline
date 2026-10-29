@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "MINI68 Lite",
+  "version": "0.4.3",
+  "identifier": "local.aula.mini68.offline",
+  "build": { "frontendDist": "../web-lite" },
+  "app": {
+    "withGlobalTauri": true,
+    "windows": [],
+    "security": {
+      "csp": "default-src 'self' data: blob:; connect-src 'self' ipc: http://ipc.localhost blob:; script-src 'self' 'unsafe-eval' blob:; style-src 'self' 'unsafe-inline'; worker-src 'self' blob:; img-src 'self' data: blob:; object-src 'none'; frame-src 'none'; base-uri 'self'"
+    }
+  },
+  "bundle": { "active": false, "icon": ["icons/icon.ico"] }
+}
