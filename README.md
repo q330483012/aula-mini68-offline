@@ -2,7 +2,15 @@
 
 用于 AULA 狼蛛 MINI68 系列的非官方 Windows 桌面适配项目。当前轻量版基于 **Tauri + Rust + 系统 WebView2**，提供 USB 配置桥接、托盘运行，以及“平时保持原灯效，有声音时自动音乐律动”。
 
-**本仓库开源原创桌面适配代码，不包含官方网页资源、固件或内嵌这些资源的 EXE。** 完整界面仍依赖官方网页资源；这些资源需要在本机另行获取，并遵守其适用条款。仓库的 MIT 许可证不覆盖它们，详见 [第三方说明](THIRD_PARTY_NOTICES.md)。项目与 AULA 官方没有隶属或授权关系。
+本仓库以 MIT 许可证开源原创桌面适配代码，并在 [Releases](https://github.com/q330483012/aula-mini68-offline/releases) 提供 Windows 运行包。运行包包含来自官方网页的界面和设备资源；这些第三方资源不属于本项目的 MIT 授权范围，详见 [第三方说明](THIRD_PARTY_NOTICES.md)。项目与 AULA 官方没有隶属或授权关系。
+
+## 下载使用
+
+- [MINI68-Lite.exe](https://github.com/q330483012/aula-mini68-offline/releases/download/v0.4.3/MINI68-Lite.exe)：单文件程序，约 **6.88 MiB**。
+- [完整 ZIP](https://github.com/q330483012/aula-mini68-offline/releases/download/v0.4.3/MINI68-Lite-win-x64.zip)：包含程序、使用说明和依赖许可证。
+- [EXE 的 SHA-256 校验文件](https://github.com/q330483012/aula-mini68-offline/releases/download/v0.4.3/MINI68-Lite.exe.sha256)。
+
+需要 Windows 10/11 x64 和 Microsoft Edge WebView2 Runtime。双击程序后用 USB 连接键盘，详细步骤见 [使用说明](README-Lite.md)。运行无需安装开发工具。
 
 ## 当前功能
 
